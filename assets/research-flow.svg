@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="1010" viewBox="0 0 440 1010" role="img" aria-labelledby="title"><title id="title">Page recovery and early brief gates</title><defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#475569"/></marker></defs><rect width="440" height="1010" fill="#f8fafc"/>
+<path d="M295 84 V125" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M295 189 V250" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="245" y="220" font-family="Arial,sans-serif" font-size="16" fill="#334155" text-anchor="middle" paint-order="stroke" stroke="#f8fafc" stroke-width="5">Recovery</text>
+<path d="M420 157 H432 V542 H420" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="383" y="220" font-family="Arial,sans-serif" font-size="16" fill="#334155" text-anchor="middle" paint-order="stroke" stroke="#f8fafc" stroke-width="5">Readable</text>
+<path d="M295 314 V370" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="337" y="342.0" font-family="Arial,sans-serif" font-size="16" fill="#334155" text-anchor="middle" paint-order="stroke" stroke="#f8fafc" stroke-width="5">Yes</text>
+<path d="M170 282 H77 V370" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="110" y="268" font-family="Arial,sans-serif" font-size="16" fill="#334155" text-anchor="middle" paint-order="stroke" stroke="#f8fafc" stroke-width="5">No</text>
+<path d="M170 402 H145" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="140" y="355" font-family="Arial,sans-serif" font-size="16" fill="#334155" text-anchor="middle" paint-order="stroke" stroke="#f8fafc" stroke-width="5">Failed</text>
+<path d="M295 434 V510" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="337" y="472.0" font-family="Arial,sans-serif" font-size="16" fill="#334155" text-anchor="middle" paint-order="stroke" stroke="#f8fafc" stroke-width="5">Readable</text>
+<path d="M77 434 V542 H170" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M295 574 V630" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M295 694 V750" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="337" y="722.0" font-family="Arial,sans-serif" font-size="16" fill="#334155" text-anchor="middle" paint-order="stroke" stroke="#f8fafc" stroke-width="5">Continue</text>
+<path d="M170 662 H77 V750" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="116" y="645" font-family="Arial,sans-serif" font-size="16" fill="#334155" text-anchor="middle" paint-order="stroke" stroke="#f8fafc" stroke-width="5">Stop</text>
+<path d="M170 782 H145" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="92" y="835" font-family="Arial,sans-serif" font-size="16" fill="#334155" text-anchor="middle" paint-order="stroke" stroke="#f8fafc" stroke-width="5">Low score</text>
+<path d="M295 814 V900" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="337" y="857.0" font-family="Arial,sans-serif" font-size="16" fill="#334155" text-anchor="middle" paint-order="stroke" stroke="#f8fafc" stroke-width="5">Continue</text>
+<rect x="170" y="20" width="250" height="64" rx="9" fill="#e0f2fe" stroke="#475569" stroke-width="1.5"/>
+<text x="295.0" y="58.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">Search snapshot</text>
+<rect x="170" y="125" width="250" height="64" rx="9" fill="#e0f2fe" stroke="#475569" stroke-width="1.5"/>
+<text x="295.0" y="163.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">Guarded fetch</text>
+<rect x="170" y="250" width="250" height="64" rx="9" fill="#e0f2fe" stroke="#475569" stroke-width="1.5"/>
+<text x="295.0" y="288.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">Fallback available?</text>
+<rect x="170" y="370" width="250" height="64" rx="9" fill="#e0f2fe" stroke="#475569" stroke-width="1.5"/>
+<text x="295.0" y="408.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">Firecrawl recovery</text>
+<rect x="10" y="370" width="135" height="64" rx="9" fill="#fff1f2" stroke="#475569" stroke-width="1.5"/>
+<text x="77.5" y="397.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">Missing</text>
+<text x="77.5" y="419.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">source</text>
+<rect x="170" y="510" width="250" height="64" rx="9" fill="#e0f2fe" stroke="#475569" stroke-width="1.5"/>
+<text x="295.0" y="537.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">Persist evidence</text>
+<text x="295.0" y="559.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">and failures</text>
+<rect x="170" y="630" width="250" height="64" rx="9" fill="#e0f2fe" stroke="#475569" stroke-width="1.5"/>
+<text x="295.0" y="668.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">Source and risk gate</text>
+<rect x="10" y="750" width="135" height="64" rx="9" fill="#fff1f2" stroke="#475569" stroke-width="1.5"/>
+<text x="77.5" y="777.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">Park with</text>
+<text x="77.5" y="799.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">reason</text>
+<rect x="170" y="750" width="250" height="64" rx="9" fill="#e0f2fe" stroke="#475569" stroke-width="1.5"/>
+<text x="295.0" y="777.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">Authority and</text>
+<text x="295.0" y="799.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">winnability</text>
+<rect x="170" y="900" width="250" height="64" rx="9" fill="#e0f2fe" stroke="#475569" stroke-width="1.5"/>
+<text x="295.0" y="927.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">Semantic analysis</text>
+<text x="295.0" y="949.0" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#0f172a">and brief</text>
+</svg>

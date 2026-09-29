@@ -1,0 +1,69 @@
+{
+  "review_date": "2026-09-29",
+  "source_revision": "e965d0a8d44a",
+  "scope": "Reviewed aggregate evidence only; raw records withheld",
+  "current_source_ci": {
+    "run_date": "2026-09-11",
+    "run_id": 34606561212,
+    "event": "push",
+    "conclusion": "success",
+    "main_suite": {
+      "passed": 1077,
+      "skipped": 21,
+      "total": 1098,
+      "test_files": 91
+    },
+    "auth_simulation": {
+      "passed": 41,
+      "total": 41,
+      "test_files": 5,
+      "overlaps_main_suite": true
+    },
+    "migration_rerun": {
+      "ledger_rows": 92,
+      "verdict": "At head, ledger and probes agree"
+    },
+    "hosted_browser_smoke_ran": false,
+    "fresh_run_for_showcase": false
+  },
+  "source_inventory": {
+    "vitest_test_files": 91,
+    "playwright_spec_files": 2,
+    "sql_migration_files": 92
+  },
+  "historical_publication_acceptance": {
+    "artifact": "docs/gate-stage1-acceptance.md",
+    "date": "2026-08-23",
+    "publication_paths": 1,
+    "browser_smoke_checks_passed": 9,
+    "web_environment": "local app with hosted database and live WordPress",
+    "customer_outcome_metric": false
+  },
+  "historical_internal_link_planning": {
+    "artifact": "docs/runbook-railway-db-worker.md",
+    "date": "2026-09-11",
+    "controlled_runs": 2,
+    "first_run": {
+      "source_pages": 1,
+      "result": "no_data"
+    },
+    "second_run": {
+      "source_pages": 3,
+      "review_only_proposals": 6
+    },
+    "wordpress_mutated": false,
+    "quality_score": null
+  },
+  "public_examples": {
+    "source_recovery_synthetic_cases": 6,
+    "conversion_evidence_synthetic_cases": 8,
+    "external_calls": 0,
+    "result": "passed"
+  },
+  "limitations": [
+    "Do not sum overlapping CI jobs as unique tests.",
+    "Skipped tests are not passes.",
+    "Hosted acceptance records are historical, not fresh showcase runs.",
+    "Proposal counts and passing tests are not SEO impact or model accuracy."
+  ]
+}
